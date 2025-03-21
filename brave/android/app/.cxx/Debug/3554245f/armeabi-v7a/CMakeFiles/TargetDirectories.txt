@@ -1,0 +1,2 @@
+/Users/macpro2019i716go512go/applications_mobiles/brave/android/app/.cxx/Debug/3554245f/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/macpro2019i716go512go/applications_mobiles/brave/android/app/.cxx/Debug/3554245f/armeabi-v7a/CMakeFiles/rebuild_cache.dir

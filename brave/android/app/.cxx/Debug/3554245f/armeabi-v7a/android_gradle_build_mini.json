@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/macpro2019i716go512go/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/macpro2019i716go512go/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/macpro2019i716go512go/applications_mobiles/brave/android/app/.cxx/Debug/3554245f/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/macpro2019i716go512go/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/macpro2019i716go512go/applications_mobiles/brave/android/app/.cxx/Debug/3554245f/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
